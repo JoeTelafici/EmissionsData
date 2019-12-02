@@ -1,2 +1,1 @@
-# EmissionsData
-Coursera/Johns Hopkins Data Science - Exploratory Analysis - Week 4 Project
+# Exploratory Analysis - Week 4
